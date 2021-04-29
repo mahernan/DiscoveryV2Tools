@@ -29,8 +29,8 @@
 # Remarks:
 #   This script will delete all data from the collection of the provided collection_id. 
 #   This is not a reversible operation. Make sure you have a backup of the data that
-#   was in the collection before you run. The script willn ot ask you to confirm the 
-#   deletes - ensure you are using the correct collection id.
+#   was in the collection before you run. The script will not ask you to confirm the 
+#   deletes - please ensure that you are using the correct collection id.
 #
 #   This script is provided AS-IS. Use at your own risk. 
 #
